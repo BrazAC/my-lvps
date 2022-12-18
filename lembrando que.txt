@@ -1,0 +1,9 @@
+-operador ternário
+-tipagem 
+-algoritmo de busca sequencial
+-sytem(cls) pra limpar tela do terminal durante execução
+-vetores em c++ vão 0 de até [valorDigitado - 1]
+-função sort() para organizar vetores
+
+
+
